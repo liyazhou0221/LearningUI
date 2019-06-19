@@ -20,6 +20,7 @@ public class MainActivity extends Activity {
         //setContentView(new SaveRestoreView(this));
         // 粒子效果
         setContentView(new SplitView(this));
+        //setContentView(R.layout.activity_main);
     }
 
 }
